@@ -1,0 +1,6 @@
+{
+  "name": "contributte/plugins",
+  "require": {
+    "composer/composer": "^1.5"
+  }
+}

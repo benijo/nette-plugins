@@ -1,0 +1,5 @@
+default: dev
+dev:
+	# This is dev configuration
+	extensions:
+		console: Contributte\Console\DI\ConsoleExtension
